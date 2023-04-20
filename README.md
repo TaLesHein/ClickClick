@@ -8,6 +8,7 @@ Seu objetivo neste game é chegar a marca de 100.000 cliques, utilizando claro d
 
 Nele possui dois modos de jogo: o Simples Mode que encurta a sua duração, porém sem perder a essência, perfeito para recrutadores e o Normal Mode onde você possui a experiência completa. Espero que goste.
 
+
 Inglês:
 
 A simple clicker game created as a study project.
