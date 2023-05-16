@@ -22,20 +22,20 @@ public class App extends Application {
         this.stage = stage;
         stage.setScene(scene);
         stage.show();
-    } 
+    }
 
     static Parent loadFXML(String fxml) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         return fxmlLoader.load();
     }
 
-    static Parent loadFXML (FXMLLoader loader) throws IOException{
+    static Parent loadFXML(FXMLLoader loader) throws IOException {
 
         Parent root = loader.load();
         return root;
     }
 
-    static void loadScene (Parent root){
+    static void loadScene(Parent root) {
 
         Scene scene = new Scene(root);
         Stage stage = App.stage;

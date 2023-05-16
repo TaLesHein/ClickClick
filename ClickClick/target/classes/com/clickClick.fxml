@@ -20,7 +20,7 @@
                </font>
             </Label>
             <Button fx:id="upgradeButton1" alignment="CENTER" layoutX="15.0" layoutY="85.0" mnemonicParsing="false" onAction="#BtnUp1" prefHeight="35.0" prefWidth="123.0" text="ClicksCoins" />
-            <Label fx:id="descUpgrade1" alignment="CENTER" layoutY="32.0" prefHeight="53.0" prefWidth="152.0" text="label">
+            <Label fx:id="descUpgrade1" alignment="CENTER" layoutX="9.0" layoutY="32.0" prefHeight="53.0" prefWidth="134.0" text="Aumenta o valor do seu clique " textAlignment="CENTER" wrapText="true">
                <font>
                   <Font size="13.0" />
                </font>
@@ -35,7 +35,7 @@
                </font>
             </Label>
             <Button fx:id="upgradeButton3" alignment="CENTER" layoutX="21.0" layoutY="85.0" mnemonicParsing="false" onAction="#BtnUp3" prefHeight="35.0" prefWidth="123.0" text="ClicksCoins" />
-            <Label fx:id="descUpgrade3" alignment="CENTER" layoutX="7.0" layoutY="32.0" prefHeight="53.0" prefWidth="152.0" text="label">
+            <Label fx:id="descUpgrade3" alignment="CENTER" layoutX="7.0" layoutY="32.0" prefHeight="53.0" prefWidth="152.0" text="Te dá um desconto nos valores dos upgrades" textAlignment="CENTER" wrapText="true">
                <font>
                   <Font size="13.0" />
                </font>
@@ -50,7 +50,7 @@
                </font>
             </Label>
             <Button fx:id="upgradeButton2" alignment="CENTER" layoutX="15.0" layoutY="85.0" mnemonicParsing="false" onAction="#BtnUp2" prefHeight="35.0" prefWidth="123.0" text="ClicksCoins" />
-            <Label fx:id="descUpgrade2" alignment="CENTER" layoutY="32.0" prefHeight="53.0" prefWidth="152.0" text="label">
+            <Label fx:id="descUpgrade2" alignment="CENTER" layoutX="4.0" layoutY="32.0" prefHeight="53.0" prefWidth="152.0" text="Multiplica o valor do seu clique" textAlignment="CENTER" wrapText="true">
                <font>
                   <Font size="13.0" />
                </font>
